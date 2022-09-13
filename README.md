@@ -8,5 +8,5 @@ This is a repo to store class work
 - Bullet point
   - Nested bullet point
  
- * Other point
+* Other point
   * Nested point
